@@ -1,0 +1,27 @@
+{
+  "name": "project-todoapp",
+  "version": "1.0.0",
+  "description": "todo app with database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resaba-kaypee/Project-TodoApp.git"
+  },
+  "author": "kaypee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resaba-kaypee/Project-TodoApp/issues"
+  },
+  "homepage": "https://github.com/resaba-kaypee/Project-TodoApp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.2.7",
+    "mongoose": "^5.6.2",
+    "path": "^0.12.7"
+  }
+}
